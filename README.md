@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinkirman&label=Profile%20views&color=0e75b6&style=flat" alt="yasinkirman" /> </p>
 
+- 🔭 I’m currently working at **SAMM Teknoloji as a R&D Engineer mainly focused on Full-Stack Web development**
+
 - 🌱 I’m currently learning **Node.js and ReactJS**
 
 - 📫 How to reach me **yasinkirman1907@gmail.com**
